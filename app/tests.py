@@ -1,5 +1,5 @@
 import unittest
-from . import identidock
+import identidock
 
 
 class TestCase( unittest.TestCase ):
